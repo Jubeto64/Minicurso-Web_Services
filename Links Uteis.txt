@@ -1,3 +1,6 @@
 Web service: o que é, como funciona, para que serve?
 https://www.opensoft.pt/web-service/
 
+Princípios SOA
+https://arthurfnsc.medium.com/princ%C3%ADpios-soa-57d0c34d9f0f
+
