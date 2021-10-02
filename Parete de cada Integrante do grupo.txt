@@ -1,0 +1,4 @@
+Adriel - UDDI
+José Victor - SOAP
+Jubeto - REST 
+João Victor - WSDl
