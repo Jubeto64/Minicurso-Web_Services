@@ -1,4 +1,4 @@
 Adriel - UDDI
 José Victor - SOAP
-Jubeto - REST 
+Jubeto - HASH 
 João Victor - WSDl
