@@ -1,0 +1,6 @@
+Divisão com Base no livro Web Services Essentials - Distributed Applications with XML RPC SOAP UDDI WSDL
+
+Adriel - UDDI part 5
+José Victor - SOAP part 3
+Jubeto - SOA, REST e  WSDL part 1, part 2  e part 4
+João Victor - faz o desenvolvimento

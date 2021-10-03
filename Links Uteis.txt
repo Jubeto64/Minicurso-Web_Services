@@ -3,4 +3,5 @@ https://www.opensoft.pt/web-service/
 
 Princípios SOA
 https://arthurfnsc.medium.com/princ%C3%ADpios-soa-57d0c34d9f0f
+https://arthurfnsc.medium.com/n%C3%A3o-confunda-alhos-com-bugalhos-soa-e-soap-359ca3f32813
 
